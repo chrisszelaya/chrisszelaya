@@ -5,9 +5,9 @@
 
 📝 Majoring in Computer Science and Minor in Data Science
 
-   Skills: Python , Java , SQL, Javascript , R , Scikit-learn , TensorFlow, React , AWS , Git
+👨‍💻 Skills: Python , Java , SQL, Javascript , R , Scikit-learn , TensorFlow, React , AWS , Git
  
 ## Experiences
 
-Software Developer Intern @ Ensco Inc. Jun 2022-Sept 2022
+💻 Software Developer Intern @ Ensco Inc. Jun 2022-Sept 2022
 
