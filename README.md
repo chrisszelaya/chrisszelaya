@@ -9,5 +9,5 @@
  
 ## Experiences
 
-💻 Software Developer Intern @ Ensco Inc. Jun 2022-Sept 2022
+💻 Software Developer Intern @ Ensco Inc. Jun 2022 - Sept 2022
 
