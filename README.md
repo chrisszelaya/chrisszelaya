@@ -7,7 +7,7 @@
 
 👨🏽‍💻 Skills: Python , Java , SQL, Javascript , R , Scikit-learn , TensorFlow, React , AWS , Git
  
-## 👨 Experiences
+## 👨🏽‍💼 Experiences
 
 💻 Software Developer Intern @ Ensco Inc. Jun 2022 - Sept 2022
 
