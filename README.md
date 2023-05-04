@@ -10,6 +10,8 @@
 ## 👨🏽‍💼 Experiences
 
 💻 Software Engineer Intern @ Honeywell  May 2023 - Aug 2023
+
 💻 Machine Learning Research Assistant @ University of Virginia Mar 2023 - Present
+
 💻 Software Engineer Intern @ Ensco Inc. Jun 2022 - Sep 2022
 
