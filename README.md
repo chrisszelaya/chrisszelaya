@@ -5,7 +5,7 @@
 
 📝 Major in Computer Science and Minor in Data Science
 
-👨🏽‍💻 Skills: Python , Java , SQL, Javascript , R , Scikit-learn , TensorFlow, React , AWS , Git
+👨🏽‍💻 Skills: Python , Scikit-learn , TensorFlow , AWS , Git , Java , SQL , Javascript , R , React 
  
 ## 👨🏽‍💼 Experiences
 
